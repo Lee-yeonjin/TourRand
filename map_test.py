@@ -51,7 +51,7 @@ def map_user_info():
 # 고정 서버
 @app.route("/server_info")
 def server_info():
-    data = {'host': '13.209.33.141', 'port': '5000'}
+    data = {'host': MY_IP_ADDRESS, 'port': '5000'}
     return jsonify(data)
 
 if __name__ == "__main__":
