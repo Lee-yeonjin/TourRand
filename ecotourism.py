@@ -4,7 +4,7 @@ import sys
 import csv
 
 # 공공데이터포털에서 발급받은 인증키
-service_key = "dHd1nnTZ2yM13KNNH3YXutjLTaTj2pHq9s4MAKxpWfiiJr3E85+PFhFd6J0605xQnXwrAOf7NuRE0Imo0ejgOQ=="
+service_key = os.getenv('eco_service_key')
 
 # 지역코드 조회 API 호출
 def get_region_codes():
