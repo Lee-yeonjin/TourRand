@@ -397,7 +397,6 @@ def second_generate_and_chat(places, date, cursor, destination, theme, count, mo
     인사와 (1 장소), (2 장소), 아침, 점심 등 부가설명 생략해.
     각 장소 다음에는 무조건 줄바꿈해줘.
     """
-    
 
     try:
         response = client.chat.completions.create(    
@@ -410,7 +409,6 @@ def second_generate_and_chat(places, date, cursor, destination, theme, count, mo
             temperature=0.7
         )
         itinerary_text = response.choices[0].message.content.strip() 
-        print("GPT 응답:", itinerary_text)  # GPT 응답 로그 추가
         
         daywise_places = {place['place_name']: place for place in places}
 
@@ -426,7 +424,6 @@ def second_generate_and_chat(places, date, cursor, destination, theme, count, mo
             places_list = fetch_places(cursor, destination, theme, count)
             return second_generate_and_chat(places_list, date, cursor, destination, theme, count)  # 재귀 호출로 일정 생성
         except Exception as e:
-            #print(f"재조회 중 오류 발생: {e}")
             return {"error": f"재조회 중 오류가 발생했습니다: {str(e)}"}
 
 # GPT 일정 생성
