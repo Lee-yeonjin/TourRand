@@ -398,7 +398,6 @@ def second_generate_and_chat(places, date, cursor, destination, theme, count, mo
     각 장소 다음에는 무조건 줄바꿈해줘.
     """
     
-    #print("프롬프트 내용:", prompt)  # 프롬프트 로그 추가
 
     try:
         response = client.chat.completions.create(    
