@@ -94,7 +94,7 @@
 <table>
   <tr>
     <td align="center" width="280" height="400">
-      <img src="https://github.com/user-attachments/assets/23c25369-ca92-4c77-b983-2ff0c63cf568"/><br/>
+      <img src="https://github.com/user-attachments/assets/23c25369-ca92-4c77-b983-2ff0c63cf568" width = "230"/><br/>
       <small>나만의 여행기록 지도 확인 가능 </small>
     </td>
     <td align="center" width="560" height="400">
