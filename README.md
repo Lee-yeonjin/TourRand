@@ -51,5 +51,57 @@
 | :---: |
 | ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) |
 
+## 👉🏻Function Description
+<table>
+  <tr>
+    <td align="center" width="280" height="400">
+      <img src="https://github.com/user-attachments/assets/68b3f9f8-2d27-4804-96b3-65d8329f4154" width="230"/><br/>
+      <small>+버튼을 통해 일정 생성가능</small>
+    </td>
+    <td align="center" width="280" height="400">
+      <img src="https://github.com/user-attachments/assets/2e1480eb-3c4b-438d-ba49-9b0f39c9f9aa" width="230"/><br/>
+      <small>간단한 질문을 통한 맞춤일정 생성</small>
+    </td>
+    <td align="center" width="280" height="400">
+      <img src="https://github.com/user-attachments/assets/8a469dbd-9178-4f4d-a4c8-556b1c9a8c33" width="230"/><br/>
+      <small>AI가 제공한 일정 확인 후 선택·수정</small>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<table>
+  <tr>
+    <td align="center" width="280" height="400">
+      <img src="https://github.com/user-attachments/assets/a95fb1d8-5e55-42ad-a3dd-96128c96dd13" width="230"/><br/>
+      <small>홈에서 생성한 일정 확인 가능<br></small>
+    </td>
+    <td align="center" width="280" height="400">
+      <img src="https://github.com/user-attachments/assets/6c642490-4f6e-455e-860d-37129632cff6" width="230"/><br/>
+      <small>여행 지역의 날씨정보와 <br>기온에 맞는 옷차림 추천</small>
+    </td>
+    <td align="center" width="280" height="400">
+      <img src="https://github.com/user-attachments/assets/970d29c0-e994-4793-b1b5-d32ef0a815d1" width="230"/><br/>
+      <!-- 긴 문장은 두 번 중첩해서 더 작게 -->
+      <small><small>룰렛·랜덤플리 등의 기능으로 <br>여행 분위기 조성 가능 </small></small>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<table>
+  <tr>
+    <td align="center" width="280" height="400">
+      <img src="https://github.com/user-attachments/assets/23c25369-ca92-4c77-b983-2ff0c63cf568"/><br/>
+      <small>나만의 여행기록 지도 확인 가능 </small>
+    </td>
+    <td align="center" width="560" height="400">
+      <img src="https://github.com/user-attachments/assets/9f63bebf-b4ff-4f05-886b-df1ffbdad2db" width="510"/><br/>
+      <small>카카오 친구 초대로 팀원추가 및 일정 공동 수정가능</small>
+    </td>
+  </tr>
+</table>
 
 # 🩶Thank you for your interest!🩶
